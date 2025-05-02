@@ -1,2 +1,2 @@
 # CartespectralObjectDetector
-Optics Simulator with OpenTK for my Cartespectral Object Detector
+C# optics simulator with OpenTK for my Cartespectral Object Detector
